@@ -1,0 +1,4 @@
+baseURL = "https://monabsioked-quotes88.vercel.app"
+languageCode = "en-us"
+title = "Quotes For Life USA "
+theme = "hugo-theme-minos"
